@@ -57,6 +57,6 @@
 
 ### 📊 Stats
 
-![qxsimlua's GitHub stats](https://github-readme-stats.vercel.app/api?username=prosperxd&show_icons=true&theme=gruvbox)
+![qxsimlua's GitHub stats](https://github-readme-stats.vercel.app/api?username=qxsimlua&show_icons=true&theme=gruvbox)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savs&" alt="filonxtn" /></p>
