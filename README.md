@@ -51,12 +51,12 @@
     <img src="" alt="Latest Portfolio Work" width="250" />
 </a>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-visit%20Site%20for%20More-black?style=for-the-badge&logo=video&logoColor=white"/>](https://phans.dev/portfolio)
+[<img src="https://custom-icon-badges.demolab.com/badge/-visit%20Site%20for%20More-black?style=for-the-badge&logo=video&logoColor=white"/>](https://savs.dev/portfolio)
 
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=prosperxd&show_icons=true&theme=gruvbox)
+![qxsimlua's GitHub stats](https://github-readme-stats.vercel.app/api?username=prosperxd&show_icons=true&theme=gruvbox)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prosperxD&" alt="filonxtn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savs&" alt="filonxtn" /></p>
